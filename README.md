@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning advanced CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram- @syedameen_205 or mail me psyedameen@gmail.com
+- 📫 mail me psyedameen@gmail.com
 
 
 <!---
