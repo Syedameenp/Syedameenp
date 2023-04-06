@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning advanced CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 mail me psyedameen@gmail.com
+- 📫 Mail me psyedameen@gmail.com
 
 
 <!---
