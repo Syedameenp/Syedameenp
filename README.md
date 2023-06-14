@@ -1,6 +1,6 @@
-- 👋 Hi, I’m  Syed Ameen
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning advanced CSS
+- 👋 Hi, I’m  Syed Ameen Pasha
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning advanced Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail me psyedameen@gmail.com
 
