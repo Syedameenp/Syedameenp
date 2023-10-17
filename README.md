@@ -1,7 +1,7 @@
-[![MasterHead](//https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0c94LAoK0epSKk-fF80gvQ&ust=1697612383002000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDI6IrB_IEDFQAAAAAdAAAAABBN)](https://syedameenp.io)
+[![MasterHead](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)](https://syedameenp.io)
 <h1 align="center">Hi 👋, I'm Syed Ameen Pasha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-typing-big-brained-busy-sweating-gif-17808553&psig=AOvVaw0c94LAoK0epSKk-fF80gvQ&ust=1697612383002000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDI6IrB_IEDFQAAAAAdAAAAABBU")
+(img align="right" alt="Coding" width="400" src="https://i.gifer.com/1FA.gif")
 
 <p align="left"> <a href="https://twitter.com/syedameen_" target="blank"><img src="https://img.shields.io/twitter/follow/syedameen_?logo=twitter&style=for-the-badge" alt="syedameen_" /></a> </p>
 
