@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://syedameenp.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fyan-levy&psig=AOvVaw3k1VO6nBkYlWJZBH2aPo8Z&ust=1697614054613000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjvpqjH_IEDFQAAAAAdAAAAABAE)](https://syedameenp.io)
 <h1 align="center">Hi 👋, I'm Syed Ameen Pasha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 (img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F1FA&psig=AOvVaw3nA8ddgVFEdPe-V4P1FH8D&ust=1697612904490000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCc56LE_IEDFQAAAAAdAAAAABAJ")
