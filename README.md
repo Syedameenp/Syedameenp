@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)](https://syedameenp.io)
 <h1 align="center">Hi 👋, I'm Syed Ameen Pasha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F1FA&psig=AOvVaw3nA8ddgVFEdPe-V4P1FH8D&ust=1697612904490000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCc56LE_IEDFQAAAAAdAAAAABAJ")
+(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdvNmpsdmg1dXR5dnlqaXhmZTN1dTZ0MG5yc3hraXNrMjdrMGxzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif")
 
 <p align="left"> <a href="https://twitter.com/syedameen_" target="blank"><img src="https://img.shields.io/twitter/follow/syedameen_?logo=twitter&style=for-the-badge" alt="syedameen_" /></a> </p>
 
