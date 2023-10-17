@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Syed Ameen Pasha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Python for Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [syedameen.tech](syedameen.tech)
 
