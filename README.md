@@ -1,9 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)](https://syedameenp.io)
 <h1 align="center">Hi 👋, I'm Syed Ameen Pasha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- (img align="right" alt="Coding" width="400" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdvNmpsdmg1dXR5dnlqaXhmZTN1dTZ0MG5yc3hraXNrMjdrMGxzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif](https://media4.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47eugxpijfdfrn3nue05ditzdf4tbdeoxx8rl86b3w&ep=v1_gifs_search&rid=giphy.gif&ct=g)") -->
-
-<p align="left"> <a href="https://twitter.com/syedameen_" target="blank"><img src="https://img.shields.io/twitter/follow/syedameen_?logo=twitter&style=for-the-badge" alt="syedameen_" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
