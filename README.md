@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)](https://syedameenp.io)
 <h1 align="center">Hi 👋, I'm Syed Ameen Pasha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif ")
+<!-- (img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif ") -->
 
 - 🌱 I’m currently learning **Python for Artificial Intelligence**
 
